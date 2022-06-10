@@ -1,0 +1,18 @@
+.dado{
+    width: 70%;
+}
+
+h3,p,h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+}
+
+#resetear{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+
+}
+#lanzar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+}
