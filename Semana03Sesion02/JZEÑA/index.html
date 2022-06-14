@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Semana03 Sesion02</title>
+        <title>Evalucion Continua 2</title>
 
         <link
             href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
@@ -19,15 +19,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="jumbotron">
-                        <h2>
-                            Agregar Contactos
-                        </h2>
+                        
                         <p>
-                            Esta pagina agrega contactos a una tabla y visualiza su información
+                           <h2>Esta pagina muestra datos de usuarios en una tabla, y visualiza su información </h2>
                         </p>
-                        <p>
-                            <a class="btn btn-primary btn-large" href="#">Ver más</a>
-                        </p>
+                        
                     </div>
                 </div>
             </div>
@@ -35,14 +31,11 @@
                 <div class="col-md-6">
 
                     <button id="buscar" type="button" class="btn btn-block btn-primary">
-                        Buscar
+                        Mostrar Datos
                     </button>
+                    <br><br>
                 </div>
-                <div class="col-md-6">
-                    <Select class="selectBootstrap" id="opciones">
-                        <option value="-1">Seleciona un valor</option>
-                    </Select>
-                </div>
+                
             </div>
             <div class="row">
                 <div class="col-md-12">
@@ -53,7 +46,8 @@
                               <th data-field="nat">Nacionalidad</th>
                               <th data-field="email">Email</th>
                               <th data-field="gender">Genero</th>
-                              <th data-field="operate" data-formatter="operateFormatter" data-events="operateEvents">Acciones</th>
+                              <th data-field="cell">Telefono</th>
+                              
                             </tr>
                           </thead>
                     </table>
@@ -63,16 +57,24 @@
                 <div class="col-md-8">
                 </div>
                 <div class="col-md-4">
+                    <br><br>
 
                     <button id="verDatos" type="button" class="btn btn-success btn-block">
                         Ver Datos
                     </button>
+
+                    <br>
+
+                    <button id="resetear" type="button" class="btn btn-reset">
+                        Reset
+                    </button>
                 </div>
             </div>
+            <br><br>
             <section id="team" class="pb-5">
                 <div class="container">
                     <h5 class="section-title h1">OUR TEAM</h5>
-                    <div id="teams" class="">
+                    <div id="teams" class="row">
                         <!-- Team member -->
                         
                     </div>
