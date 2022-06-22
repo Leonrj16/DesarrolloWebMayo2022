@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"marca": "Silla Gamer Enigma RGB – Reclinación 180°",
+		"imagen": "img1/enigma-rgb-blancoN.jpg",
+		"precio": "549.00",
+        "detalles": ["SKU: ENIGMA_RGB_", "Etiquetas: silla ergonomica reclinable, silla gamer."]
+	},
+	{
+		"id": 2,
+		"marca": "Silla oficina 109 Rosa",
+		"imagen": "img1/109-Rosa-N-1.jpg",
+		"precio": "649.00",
+		"detalles": ["SKU: SILLA_109_ROSA", "Etiquetas: silla comoda de oficina, silla con llantas 360"]
+	},
+	{
+		"id": 3,
+		"marca": "Silla Gamer Enigma RGB Rosa – Reclinación 180°",
+		"imagen": "img1/enigma-rgb-rosaN.jpg",
+		"precio": "1049",
+		"detalles": ["SKU: SILLA_109_ROSA", "Etiquetas: silla comoda de oficina, silla con llantas 360"]
+	},
+	{
+		"id": 4,
+		"marca": "Silla Gamer Raven RGB Blanco/Rosa – Reclinación 135°",
+		"imagen": "img1/raven-rgb-rosablancoN-1.jpg",
+		"precio": "740",
+		"detalles": ["SKU: N/D", "Etiquetas: silla ergonomica reclinable"]
+	},
+	{
+		"id": 5,
+		"marca": "SILLA_CAMUFLADA_ VERDE",
+		"imagen": "img1/SILLA-GAMER-AK-47-N-1.jpg",
+		"precio": "879",
+		"detalles": ["SKU: SILLA_CAMUFLADA_VERDE", "Etiquetas: silla ergonomica reclinable"]
+	},
+	{
+		"id": 6,
+		"marca": "Silla Gamer Premium INVOKER Rosa",
+		"imagen": "img1/silla-invoker-rosaN.jpg",
+		"precio": "2349",
+		"detalles": ["SKU: INVOKER_BROS_","Etiquetas: silla gamer, silla gamer azul, silla gamer"]
+
+	},
+	{
+		"id": 7,
+		"marca": "Combo Silla Gamer RAVEN RGB + Audífono Gamer LED",
+		"imagen": "img1/ravenrgb-naranja-audi-N-1.jpg",
+		"precio": "1099",
+		"detalles": ["SKU: RAVEN_RGB_-1", "Etiquetas: silla ergonomica reclinable, silla gamer"]
+	},
+	{
+		"id": 8,
+		"marca": "Mesa Gamer RS + Silla ENIGMA RGB",
+		"imagen": "img1/combo-silla-enigma-rgb-mesa-rs-blancoN.jpg",
+		"precio": "1499",
+		"detalles": ["SKU: N/D", "Categorías: Combos Gamer, Mesas Gamer, Sillas Gamer"]
+	},
+	{
+		"id": 9,
+		"marca": "Mesa Gamer ZXX + Silla ENIGMA",
+		"imagen": "img1/enigma-verdemesa-zxx-n.jpg",
+		"precio": "10090",
+		"detalles": ["SKU: N/D", "Categorías: Combos Gamer, Mesas Gamer, Sillas Gamer"]
+	}
+]
